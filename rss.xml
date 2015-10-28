@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BinaryFire]]></title>
-        <description><![CDATA[BinaryFire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[O's and 1's on fire!!]]></title>
+        <description><![CDATA[O's and 1's on fire!!]]></description>
+        <link>https://thegrid.ai/binaryfire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 20:07:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 20:13:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/binaryfire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://media.cagle.com/163/2014/08/07/151987_600.jpg">]]></description>
             <link>http://media.cagle.com/163/2014/08/07/151987_600.jpg</link>
             <guid isPermaLink="false">7792915c-d280-4ca6-b9dd-469e0133f54c</guid>
             <pubDate>Wed, 28 Oct 2015 20:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.gannett-cdn.com/-mm-/34f3c12e46e775b6bc7e523d797ba40d553715a7/r=540&c=540x304/http/videos.usatoday.net/Brightcove2/29906170001/2015/10/29906170001_4584479695001_thumb-f9ecc7a574e82330860f6a70670067b3.jpg">]]></description>
+            <link>https://thegrid.ai/binaryfire/d22e03d9-1357-444c-b757-3a4c34da3136/index.html</link>
+            <guid isPermaLink="false">d22e03d9-1357-444c-b757-3a4c34da3136</guid>
+            <pubDate>Wed, 28 Oct 2015 20:13:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
